@@ -1,0 +1,22 @@
+{
+  "name": "plus.garden.selenium-standalone",
+  "version": "2.43.1",
+  "description": "a jar selenium standalone server wrapper with crome drivers",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skadabr/plus.garden.selenium-standalone.git"
+  },
+  "keywords": [
+    "selenium",
+    "selenium-jar",
+    "selenium standalone",
+    "selenium jar file"
+  ],
+  "author": "skadabr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Skadabr/plus.garden.selenium-standalone/issues"
+  },
+  "homepage": "https://github.com/Skadabr/plus.garden.selenium-standalone#readme"
+}
