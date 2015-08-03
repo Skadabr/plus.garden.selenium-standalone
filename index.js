@@ -5,7 +5,7 @@ var path = require("path");
 var selenium_server = {
 
     getServerPath: function () {
-        return path.resolve(__dirname + "/selenium-server-standalone-2.43.1.jar")
+        return path.resolve(__dirname + "/selenium-server-standalone-2.46.0.jar")
     },
 
     getChromeDriverPath: function () {

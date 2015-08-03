@@ -1,6 +1,6 @@
 {
   "name": "plus.garden.selenium-standalone",
-  "version": "2.43.1",
+  "version": "2.46.0",
   "description": "a jar selenium standalone server wrapper with crome drivers",
   "main": "index.js",
   "repository": {
