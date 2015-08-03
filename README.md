@@ -1,6 +1,7 @@
-browsermob-standalone
+selenium-standalone
 =======================
 
-A jar browsermob proxy standalone wrapper
+A jar selenium standalone server wrapper with crome drivers
 
-Current browsermob proxy Standalone version: 2.0 beta 10
+Current selenium server Standalone version: 2.47.1
+Current chromeDriver version: 2.17
